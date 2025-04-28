@@ -31,8 +31,9 @@ print(t.postorder)
 ```
 
 ## OUTPUT
+![431411125-b14c5387-3397-44b6-a9f5-4aaaa56899eb](https://github.com/user-attachments/assets/529ecf36-2f5e-4c39-b164-a03c7eae2e5c)
 
-![Uploading 431411125-b14c5387-3397-44b6-a9f5-4aaaa56899eb.png…]()
+
 
 
 ## RESULT
