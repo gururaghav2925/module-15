@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9d35b22e-6920-4d17-8eb4-d5d78af3bdfc)# Experiment 9(e): Expression Tree Evaluation
+# Experiment 9(e): Expression Tree Evaluation
 
 ## Aim
 To write a Python program to build and evaluate the given expression tree.
