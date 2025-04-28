@@ -20,9 +20,20 @@ To write a Python program to build the following expression tree and print the i
 
 ## Program
 
-```
+```python
+
+from binarytree import build,Node
+x=['*','+','-',9,3,8,4]
+t=build(x)
+print(t.inorder)
+print(t.postorder)
+
 ```
 
 ## OUTPUT
 
+![Uploading 431411125-b14c5387-3397-44b6-a9f5-4aaaa56899eb.png…]()
+
+
 ## RESULT
+Thus the program succesffuly completed the Build an Expression Tree and Print Inorder and Postorder Traversals and executrd successfully.
